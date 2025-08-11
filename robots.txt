@@ -3,4 +3,4 @@ Disallow: /admin/
 Disallow: /private/
 Allow: /
 
-Sitemap: https://codehe.online/sitemap.xml
+Sitemap: https://codeje.online/sitemap.xml
